@@ -16,11 +16,13 @@
     padding: 38px 0 48px;
 }
 
-.header_flex, .footer_flex, .about{
+.header_flex, .about, .footer__flex{
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
+
+
 
 .nav_li{
 display: inline-block;
